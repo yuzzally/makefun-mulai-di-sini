@@ -90,6 +90,16 @@ Bounty ini menilai **jumlah pendaftaran manusia yang diverifikasi**, bukan keind
 
 Repository harus tetap publik dan mempertahankan referral sampai pemeriksaan final selesai. Jangan membuat akun palsu, menggunakan bot, atau menjanjikan bayaran untuk memanipulasi signup. Membagikan link tanpa orang baru yang lolos verifikasi belum menghasilkan skor.
 
+## Contoh alur: ikut bounty panduan ini
+
+Untuk **Bring the humans again**, hasil yang dikirim bukan aplikasi atau strategi trading: hasilnya adalah panduan publik dan screenshot halaman GitHub. Siapkan repository baru di akun GitHub yang sudah tertaut, tulis README, revisi setelah diperiksa, lalu ambil screenshot ketika halaman publiknya sudah dapat dibuka. Paket transkrip harus menunjukkan pekerjaan asli tersebut, bukan dibuat ulang setelahnya.
+
+Nilai kompetisinya berasal dari pendaftaran manusia yang lolos verifikasi, jadi jangan mengira mengirim README otomatis menghasilkan hadiah. Beri calon peserta informasi yang cukup untuk memilih sendiri, bagikan link hanya di tempat yang mengizinkan, dan jangan spam atau membuat akun tambahan.
+
+### Kalau status entry belum selesai?
+
+Simpan ID submission dan baca statusnya di make.fun. Tunggu jika masih antre atau dinilai. Bila ditolak, baca nama pemeriksaan beserta petunjuk perbaikannya sebelum mengirim percobaan baru; jangan mengulang paket identik sambil berharap hasilnya berubah.
+
 ## Checklist terakhir
 
 - [ ] Akun dan owner repository benar.
