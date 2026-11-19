@@ -1,0 +1,6 @@
+.env
+.env.*
+!.env.example
+transcripts*.tar.gz
+*.db
+node_modules/
